@@ -1,8 +1,5 @@
 # a basic boiler plate for flask / flowbite / tailwind
 
-### to watch on command prompt - 
-`npx tailwindcss -i ./static/src/input.css -o ./static/dist/css/output.css --watch`
-
 ### do install node packages
 `npm install`
 
@@ -12,6 +9,9 @@
 
 ### do install py packages 
 `pip install requirements.txt`
+
+### to watch on command prompt - 
+`npx tailwindcss -i ./static/src/input.css -o ./static/dist/css/output.css --watch`
 
 ### run program
 `python app.py`
