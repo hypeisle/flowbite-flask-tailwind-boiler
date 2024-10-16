@@ -3,14 +3,14 @@
 ## to watch on command prompt - 
 `npx tailwindcss -i ./static/src/input.css -o ./static/dist/css/output.css --watch`
 
-## do install node 
+## do install node packages
 `npm install`
 
-## do venv setups / aactivate 
+## do venv setup / activate 
 `python -m venv venv`
 `venv\Scripts\activate `
 
-## do usual 
+## do install py packages 
 `pip install requirements.txt`
 
 ##
